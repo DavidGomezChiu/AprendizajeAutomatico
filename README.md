@@ -1,2 +1,2 @@
 # AprendizajeAutomatico
-Repo de aprendizaje automático
+En este repo se almacenan las share activities del la materia Aprendizaje automático
